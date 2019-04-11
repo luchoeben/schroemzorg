@@ -21,7 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Onze kernwaarden zijn betrokkenheid, integriteit en transparantheid.
 baseurl: "schroemzorg" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username:
+facebook_username: marcelschroemges
+linkedin_username: marcelschroemges
 
 # Build settings
 markdown: kramdown

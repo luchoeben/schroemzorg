@@ -1,8 +1,7 @@
 ---
-layout: post
-title:  "Welkom bij SchroemZORG"
-date:   2019-04-11 09:03:09 +0200
-categories: welkom schroemzorg
+layout: page
+title: Welkom
+permalink: /welkom/
 ---
 Ieder mens is anders! De een heeft meer zorg en aandacht nodig om zelf weer verder te kunnen in het leven, dan de ander. Daarom biedt SchroemZORG ‘zorg op maat’. Van meer tot minder intensief. Van verpleging tot begeleiding.
 
