@@ -2,6 +2,7 @@
 layout: page
 title: Over ons
 permalink: /over-ons/
+order: 2
 ---
 
 Vanuit de visie dat iedere client een unieke hulpvraag heeft, stem ik mijn zorg af op de behoefte van de client. Mijn kernwaarden zijn betrokkenheid, integriteit en transparantheid. Naar zowel de client en zijn/haar netwerk als naar het team waar ik werk.
