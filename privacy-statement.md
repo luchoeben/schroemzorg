@@ -3,8 +3,6 @@ layout: page
 title: Privacy Statement
 permalink: /privacy-statement/
 ---
-
-
 Binnen SchroemZORG willen wij zij goed mogelijk omgaan met de gegevens die wij verkrijgen en onder ons beheer hebben. Om dit goed te regelen hebben wij onderstaande privacyverklaring opgesteld. Voor onze werkzaamheden verwerken wij persoonsgegevens, dit doen wij in overeenstemming met Algemene Verordening Gegevensbescherming [AVG]. SchroemZORG heeft een functionaris ‘gegevensbescherming’ aangesteld die toezicht houdt op de naleving van de AVG. Onze functionaris is bereikbaar via schroemzorg@ziggo.nl.
 
 <h4>Artikel 1. Toepassing</h4>
